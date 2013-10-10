@@ -4,7 +4,7 @@ using System.Collections;
 public class ScriptTeste : MonoBehaviour {
 
 	// Use this for initialization
-	void Start () {
+	void StartNovissimo () {
 		//Faz uns bagulhos muito loucos, da umas piruetas marotas e solta hadouken!
 		Instantiate(testePrefab);
 		//Hadouken!
